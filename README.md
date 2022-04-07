@@ -1,6 +1,6 @@
 # Brenda-Parser-and-API
 1. Processing the brenda-downloaded TXT file to obtain data.
-2. Encapsulated API to obtain data of the brenda enzyme database online.
+2. Encapsulated API to obtain data from the brenda enzyme database online.
 
 
 ## Brenda Parser
