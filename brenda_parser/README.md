@@ -6,7 +6,7 @@ The correspondence between abbreviations using in *brenda_download.txt* and entr
 The entries could be grouped into 5 classes.
 \# | Entry | Example | Description*
 -|-|-|-
-1|REFERENCE|<2> O'Connor, K.C.; Bailey, J.E.: Hydrolysis of emulsified tributyrin by porcine pancreatic lipase. Enzyme Microb. Technol. (1988) 10, 352-356. {Pubmed:} (c)| \<r\> c {a}
+1|REFERENCE|<2> O'Connor, K.C.; Bailey, J.E.: Hydrolysis of emulsified tributyrin by porcine pancreatic lipase. Enzyme Microb. Technol. (1988) 10, 352-356. {Pubmed:} (c)| \<r\> c 
 2|PROTEIN|#1# Meleagris gallopavo   (#1# isoform Xyl3A <315>) <315>| #p# c (a) \<r\>
 3|SUBSTRATE_PRODUCT|#121# (R/S)-ibuprofen methoxyethyl ester + H2O = (R)-ibuprofen methoxyethyl ester + (S)-ibuprofen + 2-methoxyethanol {} <97>| #p# c (a) {a} \<r\>
 4|CLONED|#200# (expression in Trichoderma reesei) <351>|#p# (a) \<r\>
